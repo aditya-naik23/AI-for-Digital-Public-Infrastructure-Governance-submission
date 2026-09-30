@@ -1,0 +1,11 @@
+{
+  "name": "BRICS DPI InfraPulse | Digital Public Infrastructure & Governance Decision Platform",
+  "description": "AI-powered, multilingual, multimodal Digital Public Infrastructure decision-support platform for citizen demand aggregation, evidence verification, infrastructure gap analytics, and explainable governance priority insights.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
